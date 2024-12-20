@@ -9,7 +9,10 @@ This is an Android Mobile Application developed using Java, paired with a custom
 ## Preview
 
 The following is a preview of the application:
+
 ![design-screenshot](app/src/main/res/drawable/login.png)
+![design-screenshot](app/src/main/res/drawable/scan.png)
+![design-screenshot](app/src/main/res/drawable/response.png)
 
 ## Authentication
 
