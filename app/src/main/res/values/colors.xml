@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Main Color Palette -->
+    <color name="royalBlue">#0A2463</color>
+    <color name="celestialBlue">#3E92CC</color>
+    <color name="platinum">#E7E7E7</color>
+    <color name="red">#ED254E</color>
+    <color name="green">#20FC8F</color>
+
+    <!--  Dark Colors  -->
+    <color name="darkColor_900">@color/black</color>
+    <color name="darkColor_800">#E6000000</color>
+    <color name="darkColor_700">#CC000000</color>
+    <color name="darkColor_600">#B3000000</color>
+    <color name="darkColor_500">#99000000</color>
+    <color name="darkColor_400">#80000000</color>
+    <color name="darkColor_300">#66000000</color>
+    <color name="darkColor_200">#4D000000</color>
+    <color name="darkColor_100">#33000000</color>
+
+    <!-- Bright Colors -->
+    <color name="brightColor_900">@color/white</color>
+    <color name="brightColor_800">#E6FFFFFF</color>
+    <color name="brightColor_700">#CCFFFFFF</color>
+    <color name="brightColor_600">#B3FFFFFF</color>
+    <color name="brightColor_500">#99FFFFFF</color>
+    <color name="brightColor_400">#80FFFFFF</color>
+    <color name="brightColor_300">#66FFFFFF</color>
+    <color name="brightColor_200">#4DFFFFFF</color>
+    <color name="brightColor_100">#33FFFFFF</color>
+
+    <!--    Primary Colors-->
+    <color name="primaryColor_900">@color/royalBlue</color>
+    <color name="primaryColor_800">#E60A2463</color>
+    <color name="primaryColor_700">#CC0A2463</color>
+    <color name="primaryColor_600">#B30A2463</color>
+    <color name="primaryColor_500">#990A2463</color>
+    <color name="primaryColor_400">#800A2463</color>
+    <color name="primaryColor_300">#660A2463</color>
+    <color name="primaryColor_200">#4D0A2463</color>
+    <color name="primaryColor_100">#330A2463</color>
+    <!-- Primary Variant -->
+    <color name="primaryColorVariant">@color/celestialBlue</color>
+
+    <!-- Secondary Colors -->
+    <color name="secondaryColor_900">#20FC8F</color>
+    <color name="secondaryColor_800">#E620FC8F</color>
+    <color name="secondaryColor_700">#CC20FC8F</color>
+    <color name="secondaryColor_600">#B320FC8F</color>
+    <color name="secondaryColor_500">#9920FC8F</color>
+    <color name="secondaryColor_400">#8020FC8F</color>
+    <color name="secondaryColor_300">#6620FC8F</color>
+    <color name="secondaryColor_200">#4D20FC8F</color>
+    <color name="secondaryColor_100">#3320FC8F</color>
+
+    <!-- Error Colors -->
+    <color name="errorColor_900">#B00020</color>
+    <color name="errorColor_600">#E6941B0C</color>
+    <color name="errorColor_500">#99941B0C</color>
+    <color name="errorColor_400">#4D941B0C</color>
+
+    <!--    Alternative colors-->
+    <color name="transparent">@android:color/transparent</color>
+    <color name="nightBlack">#000F08</color>
+    <color name="smokyBlack">#0F1108</color>
+    <color name="eerieBlack">#111D13</color>
+    <color name="dullBlack">#25242C</color>
+    <color name="raisinBlack">#2E2E3A</color>
+    <color name="disableGray">#EBEBE4</color>
+
+</resources>
