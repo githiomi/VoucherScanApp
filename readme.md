@@ -67,7 +67,7 @@ Contact me through any of the following channels:
 
 * Slack: danielgithiomi
 * GitHub: githiomi
-* LinkedIn: [danielgithiomi](https://linkedin.com/in/danielgithiomi)
+* LinkedIn: [danielgithiomi](https://linkedin.com/in/daniel-githiomi/)
 * Email: <danielgithiomi@gmail.com>
 
 ## LICENSES

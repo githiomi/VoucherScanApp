@@ -49,6 +49,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_alignParentTop="true"
+            android:layout_margin="15dp"
             android:background="@color/transparent"
             android:paddingVertical="5dp">
 
@@ -117,21 +118,11 @@
             app:lottie_loop="true"
             app:lottie_rawRes="@raw/original_scan" />
 
-        <TextView
-            android:id="@+id/apiResponse"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_below="@id/LA_Scan"
-            android:text="@string/api_response_placeholder"
-            android:textAlignment="center"
-            android:textAllCaps="true"
-            android:textStyle="bold" />
-
         <androidx.appcompat.widget.AppCompatButton
             android:id="@+id/BTN_ScanVoucher"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_below="@id/apiResponse"
+            android:layout_below="@id/LA_Scan"
             android:layout_centerHorizontal="true"
             android:layout_marginVertical="10dp"
             android:background="@drawable/primary_button"

@@ -47,7 +47,6 @@ public class MainActivity extends AppCompatActivity {
     // Views
     CircleImageView profilePicture;
     TextView usernameTextView;
-    TextView apiResponse;
     LottieAnimationView scanLottieAnimation;
     AppCompatButton logoutButton, scanVoucherButton;
     RelativeLayout loadingLayout, responseLayout;
@@ -109,7 +108,6 @@ public class MainActivity extends AppCompatActivity {
                         user = extractUser(jsonBody);
 
                         populateUserData(user);
-                        this.apiResponse.setText(user.toString());
 
                     } catch (JSONException ex) {
                         Toast.makeText(this, "There was an error extracting users from the database.", Toast.LENGTH_LONG).show();
@@ -131,7 +129,6 @@ public class MainActivity extends AppCompatActivity {
 
     private void populateUserData(User user) {
         this.usernameTextView.setText(user.getUsername());
-        this.apiResponse.setText(user.toString());
 
         // Set profile picture
         int profilePicture = user.getGender().equals("Male") ? ic_male : ic_female;
@@ -145,7 +142,6 @@ public class MainActivity extends AppCompatActivity {
         this.usernameTextView = view.TVUsername;
         this.logoutButton = view.BTLLogout;
         this.scanVoucherButton = view.BTNScanVoucher;
-        this.apiResponse = view.apiResponse;
         this.scanLottieAnimation = view.LAScan;
     }
 
