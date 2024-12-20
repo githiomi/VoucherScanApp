@@ -60,7 +60,7 @@ To set up and run this project locally, follow these steps:
    Open the folder in your favourite editor, for example Android Studio, using the following syntax. 
 3. **Setup**:
    Set up a virtual device with __minimum API Level 30__
-   Or download the [.apk](voucherscan.apk) and install directly on a physical device 
+   Or download the [.apk](apk/voucherscan.apk) and install directly on a physical device 
 4. **Enjoy**:
    Use the __Voucher Scan__ application.
 
