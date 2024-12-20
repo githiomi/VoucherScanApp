@@ -1,4 +1,4 @@
-# [<img src="app/src/main/res/drawable/app_icon.png" height="30" style="margin:0 5px" alt="VoucherApp"/>](https://github.com/githiomi/VoucherScan) Voucher Scan
+# [<img src="app/src/main/res/drawable/app_icon.png" height="30" style="margin:0 5px" alt="VoucherApp"/>](https://github.com/githiomi/VoucherScanApp) Voucher Scan Mobile Application
 
 > Developed by <a href="http://github.com/githiomi">Daniel Githiomi</a>
 
@@ -52,7 +52,7 @@ __Note: Slow internet connection may affect the voucher scanning and redemption 
 To set up and run this project locally, follow these steps:
 
 1. **Clone the repository**: 
-   Git clone [this](https://www.github.com/githiomi/VoucherScan) into your terminal.
+   Git clone [this](https://www.github.com/githiomi/VoucherScanApp) into your terminal.
 2. **Open the folder**:
    Open the folder in your favourite editor, for example Android Studio, using the following syntax. 
 3. **Setup**:
